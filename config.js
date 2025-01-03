@@ -26,7 +26,7 @@ function convertToBool(text, fault = 'true') {
 //--------------------------Kang Jinhuyk---------------------------------------
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID || "YOUR JINHUYK SESSION PLACE IT HERE",
+SESSION_ID: process.env.SESSION_ID || "2VIWGZQY#pZ_WU4ILlyhi7pGtuYdDdZ5YrbgDYgCErODAewymJWo",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //TRUE OR FALSE
 OWNER_NUMBER: process.env.OWNER_NUMBER || "242067274660",
 MODE: process.env.MODE || "public",  // PRIVATE OR PUBLIC
